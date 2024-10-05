@@ -1,0 +1,8 @@
+{
+    "onVictory": {
+        "balance": 0,
+        "commands": [
+            "give %player% farmersdelight:hamburger 8"
+        ]
+    }
+}

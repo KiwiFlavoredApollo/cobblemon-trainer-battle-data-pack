@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 12,  // Adjust this based on the version of Minecraft you're targeting
+    "description": "My Custom Datapack"
+  }
+}
