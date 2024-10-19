@@ -1,4 +1,7 @@
 {
+    "condition": {
+        "isRematchAllowedAfterVictory": false
+    },
     "onVictory": {
         "balance": 0,
         "commands": [
