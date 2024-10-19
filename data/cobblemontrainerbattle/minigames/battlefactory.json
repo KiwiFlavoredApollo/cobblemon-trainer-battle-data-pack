@@ -1,12 +1,12 @@
 {
     "onVictory": {
-      "balance": 0,
-      "commands": [
-        "give %player% cobblemon:ancient_origin_ball"
-      ]
+        "balance": 0,
+        "commands": [
+            "give %player% cobblemon:ancient_origin_ball"
+        ]
     },
     "onDefeat": {
-      "balance": 0,
-      "commands": []
+        "balance": 0,
+        "commands": []
     }
-  }
+}
