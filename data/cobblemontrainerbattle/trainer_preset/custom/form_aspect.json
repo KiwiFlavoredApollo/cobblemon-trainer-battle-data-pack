@@ -3,7 +3,7 @@
 
   "is_rematch_allowed": true,
 
-  "battle_theme": "battle.default.disc_1",
+  "battle_theme": "cobblemontrainerbattle:battle.default.disc_1",
 
   "on_victory_commands": [
     "say You are unstoppable"
