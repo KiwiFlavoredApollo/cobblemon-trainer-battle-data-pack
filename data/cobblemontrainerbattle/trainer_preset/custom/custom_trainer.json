@@ -3,6 +3,7 @@
 
   "is_rematch_allowed": true,
   "cooldown_in_seconds": 60,
+  "entity_uuid": "4ef68c65-4a76-47a2-9e03-2c238db9d644",
 
   "battle_theme": "cobblemontrainerbattle:battle.default.disc_1",
 
