@@ -1,0 +1,15 @@
+{
+  "team": "custom/form_aspect",
+
+  "is_rematch_allowed": true,
+
+  "battle_theme": "battle.default.disc_1",
+
+  "on_victory_commands": [
+    "say You are unstoppable"
+  ],
+  "on_defeat_commands": [
+    "say You loser",
+    "give %player% minecraft:iron_ingot 3"
+  ]
+}

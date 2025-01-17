@@ -1,0 +1,15 @@
+{
+  "team": "radicalred/leader_misty",
+
+  "is_rematch_allowed": true,
+
+  "battle_theme": "battle.default.disc_1",
+
+  "on_victory_commands": [
+    "say Hello World"
+  ],
+  "on_defeat_commands": [
+    "say You are defeated",
+    "give %player% minecraft:iron_ingot 3"
+  ]
+}

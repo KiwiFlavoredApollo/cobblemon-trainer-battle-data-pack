@@ -1,0 +1,85 @@
+[
+    {
+        "name": "",
+        "species": "Farfetch\u2019d",
+        "form": "Galar",
+        "item": "Leek",
+        "ability": "Super Luck",
+        "gender": "",
+        "nature": "Hardy",
+        "evs": {
+            "hp": 80,
+            "atk": 80,
+            "def": 80,
+            "spa": 80,
+            "spd": 80,
+            "spe": 80
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+        },
+        "level": 10,
+        "moves": [
+            "Brave Bird",
+            "Close Combat",
+            "Leaf Blade",
+            "Knock Off"
+        ]
+    },
+    {
+        "species": "Zoroark-Hisui",
+        "gender": "M",
+        "item": "Choice Scarf",
+        "ability": "Illusion",
+        "teraType": "Normal",
+        "evs": {
+            "def": 4,
+            "spa": 252,
+            "spe": 252
+        },
+        "nature": "Naive",
+        "level": 10,
+        "moves": [
+            "Focus Blast",
+            "Shadow Ball",
+            "Trick",
+            "U-turn"
+        ]
+    },
+    {
+        "name": "",
+        "species": "Audino",
+        "item": "Audinite",
+        "ability": "Healer",
+        "gender": "M",
+        "nature": "Bold",
+        "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 252,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+        },
+        "level": 10,
+        "moves": [
+            "Moonblast",
+            "Wish",
+            "Protect",
+            "Toxic"
+        ]
+    }
+]

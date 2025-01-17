@@ -1,0 +1,20 @@
+{
+  "team": "custom/player727_20241010_173202",
+
+  "is_rematch_allowed": true,
+  "cooldown_in_seconds": 5,
+
+  "battle_theme": "battle.default.disc_1",
+
+  "required_held_item": [
+    "minecraft:diamond"
+  ],
+
+  "on_victory_commands": [
+    "say You are victorious"
+  ],
+  "on_defeat_commands": [
+    "say You are defeated",
+    "give %player% minecraft:iron_ingot 3"
+  ]
+}
