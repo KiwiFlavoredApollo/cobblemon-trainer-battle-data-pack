@@ -1,0 +1,46 @@
+{
+  "team": "radicalred/leader_misty",
+
+  "display_name": "My Trainer",
+  "level_mode": "normal",
+  "battle_format": "single",
+  "battle_ai": "generation5",
+  "battle_theme": "cobblemon:battle.pvn.default",
+  "cooldown_in_seconds": 0,
+  "entity_uuid": "d8f7f037-33fe-4f55-8670-67b1494b7896",
+
+  "is_spawning_allowed": true,
+  "is_rematch_allowed": true,
+
+  "maximum_party_size": 6,
+  "minimum_party_size": 1,
+
+  "maximum_party_level": 100,
+  "minimum_party_level": 1,
+
+  "required_label": ["legendary", "gen3"],
+  "required_pokemon": [
+    {
+      "species": "cobblemon:ninetales",
+      "form": "Alola"
+    }
+  ],
+  "required_held_item": [
+    "minecraft:dirt"
+  ],
+  "required_ability": ["pressure", "static"],
+  "required_move": ["tackle", "ember"],
+
+  "forbidden_label": [],
+  "forbidden_pokemon": [],
+  "forbidden_held_item": [],
+  "forbidden_ability": [],
+  "forbidden_move": [],
+
+  "on_victory_commands": [
+    "give %player% minecraft:diamond"
+  ],
+  "on_defeat_commands": [
+
+  ]
+}
