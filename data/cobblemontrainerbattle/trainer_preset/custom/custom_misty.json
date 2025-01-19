@@ -8,6 +8,7 @@
   "battle_theme": "cobblemon:battle.pvn.default",
   "cooldown_in_seconds": 0,
   "entity_uuid": "d8f7f037-33fe-4f55-8670-67b1494b7896",
+  "texture": "cobblemontrainerbattle:textures/entity/trainer/slim/red_piikapiika.png",
 
   "is_spawning_allowed": true,
   "is_rematch_allowed": true,
